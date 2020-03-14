@@ -1,0 +1,6 @@
+This directory contains some codes to compute the radial pairwise velocity profile of galaxies as in Tinker 2007 (arXiv:astro-ph/0604217)
+Just "make" for compiling and you will get an executive file named as calc_tinker07.
+Please see sub.sh how to run this executive file.
+
+Masato Shirasaki
+March 13, 2020
